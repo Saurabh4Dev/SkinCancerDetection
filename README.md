@@ -23,7 +23,7 @@ This project builds a **CNN model** to classify **9 types of skin cancer** using
 8. **Final Model Evaluation**: Evaluate best model for 30 epochs.
 
 ## How to Run:
-1. Open **Saurabh_Pandey.ipynb**.
+1. Open **Saurabh_Pandey_nn.ipynb**.
 2. Run each cell sequentially.
 
 ## Requirements:
